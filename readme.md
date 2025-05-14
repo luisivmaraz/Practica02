@@ -23,7 +23,7 @@ Práctica 02: Esta skill responde a 4 comandos especificos  usando el modelo de 
  
 
 
-Fecha entrega: 27 de septiembre del 2023
+Fecha entrega: 14 de mayo del 2025
 </div>
 
 <br>
