@@ -10,7 +10,7 @@
 
 <div style="text-align: justify;">
 Materia: Extraccion de conocimientos de bases de datos <br><br>
-Docente: Marco Antinio Ramírez Hernandez <br><br>
+Docente: Marco Antonio Ramírez Hernandez <br><br>
 Alumno: Luis Ivan Marquez Azuara Mauricio Ramírez López <br><br>
 Matrícula: 220401 <br><br>
 
