@@ -11,7 +11,7 @@
 <div style="text-align: justify;">
 Materia: Extraccion de conocimientos de bases de datos <br><br>
 Docente: Marco Antonio Ramírez Hernandez <br><br>
-Alumno: Luis Ivan Marquez Azuara Mauricio Ramírez López <br><br>
+Alumno: Luis Ivan Marquez Azuara <br><br>
 Matrícula: 220401 <br><br>
 
 Práctica 02: Esta skill responde a 4 comandos especificos  usando el modelo de interacción de Alexa:
